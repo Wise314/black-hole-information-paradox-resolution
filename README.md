@@ -1,5 +1,4 @@
-
-![Banner](banner2.webp)
+![Banner](banner3.webp)
 
 # Black Hole Information Paradox Resolution
 
