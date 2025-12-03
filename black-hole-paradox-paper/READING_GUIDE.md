@@ -63,26 +63,26 @@ This was corrected from an earlier version that incorrectly stated I_accessible 
 
 The following objections have been addressed. If you raise them without engaging with the answers below, you have not read this guide carefully.
 
-**Q: "The paper conflates mass with information."**  
-A: No. Section 2.3 defines I = M/M₀ (identity) as distinct from S ∝ M² (entropy). Section 6.2 derives their relationship. The connection is geometric (holographic principle), not assumed.
+**"The paper conflates mass with information."**  
+No. Section 2.3 defines I = M/M₀ (identity) as distinct from S ∝ M² (entropy). Section 6.2 derives their relationship. The connection is geometric (holographic principle), not assumed.
 
-**Q: "Why must |dI_rad/dI| diverge rather than just |dI_rad/dt|?"**  
-A: The Page curve requires back-loading. Back-loading requires α < 1. α < 1 gives |dI_rad/dI| → ∞. See "Key Structural Points" above for full derivation.
+**"Why must |dI_rad/dI| diverge rather than just |dI_rad/dt|?"**  
+The Page curve requires back-loading. Back-loading requires α < 1. α < 1 gives |dI_rad/dI| → ∞. See "Key Structural Points" above for full derivation.
 
-**Q: "Why should I = M/M₀ inherit Hawking's acceleration constraint?"**  
-A: Because information capacity is bounded by horizon area (holographic principle), and horizon area is determined by mass. The relationship is derived, not assumed.
+**"Why should I = M/M₀ inherit Hawking's acceleration constraint?"**  
+Because information capacity is bounded by horizon area (holographic principle), and horizon area is determined by mass. The relationship is derived, not assumed.
 
-**Q: "The AMPS resolution only addresses aggregate flow, not mode-by-mode entanglement."**  
-A: The aggregate argument is explicit. The mode-by-mode argument is implicit: per-quantum entanglement burden depends on total information distribution, which √ dampening changes. This is acknowledged as an area where the paper could be more explicit—see Open Issues.
+**"The AMPS resolution only addresses aggregate flow, not mode-by-mode entanglement."**  
+The aggregate argument is explicit. The mode-by-mode argument is implicit: per-quantum entanglement burden depends on total information distribution, which √ dampening changes. This is acknowledged as an area where the paper could be more explicit—see Open Issues.
 
-**Q: "Is α = 1/2 arbitrary?"**  
-A: No. The acceleration constraint eliminates α ≥ 1. Page curve timing, holographic geometry, and empirical validation independently select 1/2. Three independent derivations converge.
+**"Is α = 1/2 arbitrary?"**  
+No. The acceleration constraint eliminates α ≥ 1. Page curve timing, holographic geometry, and empirical validation independently select 1/2. Three independent derivations converge.
 
-**Q: "Is the empirical validation the main argument?"**  
-A: No. It is supporting evidence. The theoretical derivation in Section 2 depends only on Hawking's equations and logic. The empirics could be wrong and the theoretical argument would still stand.
+**"Is the empirical validation the main argument?"**  
+No. It is supporting evidence. The theoretical derivation in Section 2 depends only on Hawking's equations and logic. The empirics could be wrong and the theoretical argument would still stand.
 
-**Q: "The Page curve tracks entanglement entropy, but I_rad tracks information content—aren't these different?"**  
-A: Yes, they measure different aspects of the same physical state. The paper acknowledges this in Section 4.4. The connection is that both require back-loading, which selects α < 1 and specifically α = 1/2.
+**"The Page curve tracks entanglement entropy, but I_rad tracks information content—aren't these different?"**  
+Yes, they measure different aspects of the same physical state. The paper acknowledges this in Section 4.4. The connection is that both require back-loading, which selects α < 1 and specifically α = 1/2.
 
 ---
 
