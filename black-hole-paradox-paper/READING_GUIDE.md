@@ -11,6 +11,8 @@ This paper argues that Hawking's equations (1975) mathematically exclude linear 
 
 Section 2.3 explicitly distinguishes mass, entropy, and information. The empirical validation is supporting evidence; the core argument is mathematical constraint elimination.
 
+This guide addresses common questions; the arguments themselves are in the paper.
+
 ---
 
 ## Key Structural Points
