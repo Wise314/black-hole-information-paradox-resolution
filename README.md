@@ -23,7 +23,7 @@ The underlying physics framework with full empirical validation.
 ### 3. Technical Notes
 Clarifications on key derivations, constraints, and future development areas.
 
-[View Technical Notes (PDF)](black-hole-paradox-paper/Technical_Notes_Universal_Identity_Law.pdf) | [View Markdown](black-hole-paradox-paper/TECHNICAL_NOTES.md)
+[View Technical Notes (PDF)](black-hole-paradox-paper/Technical_Notes_Universal_Identity_Law.pdf)
 
 ---
 
