@@ -56,3 +56,9 @@ Back-loading requires I_hole ∝ (M/M₀)^α with α < 1. This gives |dI_rad/dI|
 I_accessible = √I = (S_BH/S₀)^(1/4)
 
 An earlier draft incorrectly stated I_accessible = √(S_BH/S₀).
+
+---
+
+## License
+
+© 2025 Shawn Barnicle. This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
