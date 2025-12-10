@@ -55,8 +55,6 @@ The mathematical framework underlying this research has been developed into **7 
 - 💼 LinkedIn: [linkedin.com/in/shawn-barnicle-811887390](https://www.linkedin.com/in/shawn-barnicle-811887390)
 - 🐙 GitHub: [Wise314](https://github.com/Wise314)
 
-☕ [**Buy Me a Coffee**](https://shunyatacafe.com) — Support independent research
-
 ---
 
 ## 📝 License
