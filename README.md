@@ -1,12 +1,9 @@
 🎯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🎯
-
 # Black Hole Information Paradox Resolution
-
 > 🕳️ A proposed resolution to the 50-year-old information paradox.  
 > 🧠 No firewalls, no wormholes, no new physics required.  
 > 📊 Empirically validated across 27 systems.  
 > 🔬 Five falsifiable predictions testable within 2–3 years.
-
 🎯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🎯
 
 ---
@@ -22,6 +19,11 @@ The complete theoretical framework and proposed paradox resolution.
 The underlying physics framework with full empirical validation.
 
 [View Paper (PDF)](universal-law-paper/Universal_Identity_Law__A_Fundamental_Framework_for_Information_Preservation.pdf)
+
+### 3. Technical Notes
+Clarifications on key derivations, constraints, and future development areas.
+
+[View Technical Notes (PDF)](black-hole-paradox-paper/Technical_Notes_Universal_Identity_Law.pdf) | [View Markdown](black-hole-paradox-paper/TECHNICAL_NOTES.md)
 
 ---
 
@@ -50,6 +52,12 @@ The underlying physics framework with full empirical validation.
 **Author:** Shawn Barnicle  
 **Email:** ShawnBarnicle.ai@gmail.com  
 **GitHub:** [Wise314](https://github.com/Wise314)
+
+---
+
+## License
+
+© 2025 Shawn Barnicle. This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
