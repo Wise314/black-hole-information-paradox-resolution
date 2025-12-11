@@ -23,7 +23,7 @@ This isn't a proposal. It's a derivation.
 | Paper | Focus |
 |-------|-------|
 | [Black Hole Information Paradox Resolution →](./black-hole-paradox-paper/) | Theoretical derivation + paradox resolution |
-| [Universal Identity Law →](./universal-law-paper/) | Full empirical validation across 5 domains |
+| [Universal Identity Law →](./thermodynamic-law-framework/) | Full empirical validation across 5 domains |
 
 ---
 
