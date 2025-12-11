@@ -46,7 +46,7 @@ A proposed resolution to the 50-year-old black hole information paradox — no f
 
 ## 💼 Commercial Applications
 
-The mathematical framework underlying this research has been developed into **7 filed provisional patents** covering universal failure prediction, AI/ML stability monitoring, predictive maintenance, and critical infrastructure protection.
+The mathematical framework underlying this research has been developed into **8 filed provisional patents** covering universal failure prediction, AI/ML stability monitoring, predictive maintenance, and critical infrastructure protection.
 
 **Estimated Portfolio Value:** $750M - $2B (granted patents)
 
@@ -62,7 +62,7 @@ The mathematical framework underlying this research has been developed into **7 
 - 📧 Email: ShawnBarnicle.ai@gmail.com
 - 📧 Email: ShawnBarnicle@proton.me
 - 💼 LinkedIn: [linkedin.com/in/shawn-barnicle-811887390](https://www.linkedin.com/in/shawn-barnicle-811887390)
-- 🐙 GitHub: [Wise314](https://github.com/Wise314)
+- 🐙 GitHub: [Patent Portfolio](https://github.com/Wise314/barnicle-ai-systems) | [Physics Papers](https://github.com/Wise314/black-hole-information-paradox-resolution)
 
 ---
 

@@ -50,7 +50,7 @@ One equation. One threshold. Five domains. 100% accuracy.
 
 ## 💼 Commercial Applications
 
-The mathematical framework has been developed into **7 filed provisional patents** covering:
+The mathematical framework has been developed into **8 filed provisional patents** covering:
 
 - Earthquake early warning systems
 - Power grid blackout prediction
@@ -72,7 +72,7 @@ The mathematical framework has been developed into **7 filed provisional patents
 - 📧 Email: ShawnBarnicle.ai@gmail.com
 - 📧 Email: ShawnBarnicle@proton.me
 - 💼 LinkedIn: [linkedin.com/in/shawn-barnicle-811887390](https://www.linkedin.com/in/shawn-barnicle-811887390)
-- 🐙 GitHub: [Wise314](https://github.com/Wise314)
+- 🐙 GitHub: [Patent Portfolio](https://github.com/Wise314/barnicle-ai-systems) | [Physics Papers](https://github.com/Wise314/black-hole-information-paradox-resolution)
 
 ---
 
