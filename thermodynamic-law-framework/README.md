@@ -11,6 +11,8 @@ Empirical evidence for a universal law governing information preservation — va
 
 [📄 **View Full Paper (PDF)**](Universal_Identity_Law__A_Fundamental_Framework_for_Information_Preservation.pdf)
 
+**DOI:** [10.5281/zenodo.17911133](https://doi.org/10.5281/zenodo.17911133)
+
 ---
 
 ## 🔬 The Discovery

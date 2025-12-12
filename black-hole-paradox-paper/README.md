@@ -11,6 +11,8 @@ A proposed resolution to the 50-year-old black hole information paradox — no f
 
 [📄 **View Full Paper (PDF)**](Universal_Identity_Law_and_the_Black_Hole_Information_Paradox.pdf)
 
+**DOI:** [10.5281/zenodo.17911481](https://doi.org/10.5281/zenodo.17911481)
+
 ---
 
 ## 🔬 What This Paper Proves
