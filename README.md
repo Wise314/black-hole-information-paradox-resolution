@@ -20,10 +20,10 @@ This isn't a proposal. It's a derivation.
 
 ## 📄 The Papers
 
-| Paper | Focus |
-|-------|-------|
-| [Black Hole Information Paradox Resolution →](./black-hole-paradox-paper/) | Theoretical derivation + paradox resolution |
-| [Universal Identity Law →](./thermodynamic-law-framework/) | Full empirical validation across 5 domains |
+| Paper | Focus | DOI |
+|-------|-------|-----|
+| [Black Hole Information Paradox Resolution →](./black-hole-paradox-paper/) | Theoretical derivation + paradox resolution | [10.5281/zenodo.17911481](https://doi.org/10.5281/zenodo.17911481) |
+| [Universal Identity Law →](./thermodynamic-law-framework/) | Full empirical validation across 5 domains | [10.5281/zenodo.17911133](https://doi.org/10.5281/zenodo.17911133) |
 
 ---
 
