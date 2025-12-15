@@ -40,4 +40,14 @@ https://github.com/Wise314/black-hole-information-paradox-resolution
 
 ---
 
-**Last Updated:** December 2, 2025
+## Papers in This Repo
+
+| Paper | Folder |
+|-------|--------|
+| Black Hole Information Paradox Resolution | `black-hole-paradox-paper/` |
+| Universal Identity Law | `thermodynamic-law-framework/` |
+| UQSD Triality Maximizer | `triality-maximizer-paper/` |
+
+---
+
+**Last Updated:** December 15, 2025
