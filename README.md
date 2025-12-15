@@ -24,6 +24,7 @@ This isn't a proposal. It's a derivation.
 |-------|-------|-----|
 | [Black Hole Information Paradox Resolution →](./black-hole-paradox-paper/) | Theoretical derivation + paradox resolution | [10.5281/zenodo.17911481](https://doi.org/10.5281/zenodo.17911481) |
 | [Universal Identity Law →](./thermodynamic-law-framework/) | Full empirical validation across 5 domains | [10.5281/zenodo.17911133](https://doi.org/10.5281/zenodo.17911133) |
+| [UQSD Triality Maximizer →](./triality-maximizer-paper/) | Quantum derivation of λ = 0.25 threshold | [10.5281/zenodo.17944911](https://doi.org/10.5281/zenodo.17944911) |
 
 ---
 
@@ -34,6 +35,7 @@ This isn't a proposal. It's a derivation.
 - **AMPS firewall paradox dissolves** — the problematic entanglement configuration never forms
 - **Unitarity preserved** — information conserved at every moment
 - **Equivalence principle maintained** — no violent processes at the horizon
+- **λ = 0.25 is geometric necessity** — derived from UQSD complementarity and normalized triality
 
 ### Empirical Validation
 - **27 independent systems** across 5 physical domains
@@ -106,5 +108,5 @@ The mathematical framework has been developed into **8 filed provisional patents
 
 ---
 
-**Last Updated:** December 2025  
+**Last Updated:** December 15, 2025  
 **Status:** Ready for peer review
