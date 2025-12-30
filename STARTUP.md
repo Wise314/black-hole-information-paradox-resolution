@@ -47,7 +47,8 @@ https://github.com/Wise314/black-hole-information-paradox-resolution
 | Black Hole Information Paradox Resolution | `black-hole-paradox-paper/` |
 | Universal Identity Law | `thermodynamic-law-framework/` |
 | UQSD Triality Maximizer | `triality-maximizer-paper/` |
+| Locally Extractable Energy | `locally-extractable-energy-paper/` |
 
 ---
 
-**Last Updated:** December 15, 2025
+**Last Updated:** December 30, 2025
