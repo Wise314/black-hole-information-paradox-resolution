@@ -25,6 +25,7 @@ This isn't a proposal. It's a derivation.
 | [Black Hole Information Paradox Resolution →](./black-hole-paradox-paper/) | Theoretical derivation + paradox resolution | [10.5281/zenodo.17911481](https://doi.org/10.5281/zenodo.17911481) |
 | [Universal Identity Law →](./thermodynamic-law-framework/) | Full empirical validation across 5 domains | [10.5281/zenodo.17911133](https://doi.org/10.5281/zenodo.17911133) |
 | [UQSD Triality Maximizer →](./triality-maximizer-paper/) | Quantum derivation of λ = 0.25 threshold | [10.5281/zenodo.17944911](https://doi.org/10.5281/zenodo.17944911) |
+| [Locally Extractable Energy →](./locally-extractable-energy-paper/) | Quantum energy extraction + triality application | [10.5281/zenodo.18099211](https://doi.org/10.5281/zenodo.18099211) |
 
 ---
 
@@ -108,5 +109,5 @@ The mathematical framework has been developed into **8 filed provisional patents
 
 ---
 
-**Last Updated:** December 15, 2025  
+**Last Updated:** December 30, 2025  
 **Status:** Ready for peer review
