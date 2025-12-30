@@ -8,7 +8,7 @@
 
 A derivation showing how measurement-induced correlations affect the energy extractable from quantum systems through local operations.
 
-[📄 **View Full Paper (PDF)**](Extractable_Energy.pdf)
+[📄 **View Full Paper (PDF)**](Locally_Extractable_Energy_in_Quantum_Measurement.pdf)
 
 **DOI:** [10.5281/zenodo.18099211](https://doi.org/10.5281/zenodo.18099211)
 
